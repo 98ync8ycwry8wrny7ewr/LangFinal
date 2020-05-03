@@ -1,7 +1,6 @@
 {
   "name": "wasm-game-of-life",
   "collaborators": [
-    "Sam Doran <sam.p.doran@gmail.com>"
   ],
   "version": "0.1.0",
   "files": [
